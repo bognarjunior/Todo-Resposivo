@@ -1,2 +1,3 @@
 # Todo-Resposivo
-Todo Responsivo em AngularJS
+Todo Responsivo em Angular.js 1.x
+
